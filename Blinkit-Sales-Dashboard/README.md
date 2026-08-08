@@ -4,7 +4,6 @@ Power BI dashboard for analyzing Blinkit's sales performance, outlet performance
 
 ## Tools Used
 - Power BI
-- Excel
 - Data Visualization
 - Data Analysis
 
